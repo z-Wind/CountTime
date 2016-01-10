@@ -1,2 +1,2 @@
-# Countdown
-Countdown set times &amp; interval time
+# CountTime
+CountTime set times &amp; interval time
